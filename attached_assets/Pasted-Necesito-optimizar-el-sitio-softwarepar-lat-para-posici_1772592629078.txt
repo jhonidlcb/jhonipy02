@@ -1,0 +1,206 @@
+Necesito optimizar el sitio softwarepar.lat para posicionamiento SEO LOCAL en:
+
+Carlos Antonio López, Itapúa, Paraguay
+
+Mayor Otaño, Itapúa, Paraguay
+
+Todo el departamento de Itapúa
+
+IMPORTANTE:
+
+NO modificar diseño visual
+
+NO cambiar colores ni layout
+
+NO alterar navegación
+
+Solo modificar textos estratégicamente y agregar páginas nuevas optimizadas
+
+Evitar keyword stuffing (no repetir la misma frase más de 5–6 veces exactas)
+
+Usar variaciones naturales
+
+1️⃣ MODIFICAR HERO PRINCIPAL (HOME)
+
+Buscar H1 actual:
+
+"SoftwarePar: Tu Partner Tecnológico en Paraguay"
+
+Reemplazar por:
+
+H1:
+"Desarrollo Web y Sistemas en Itapúa para Negocios y Consultorios"
+
+Subtítulo:
+"En SoftwarePar ayudamos a empresas, consultorios y emprendedores en Carlos Antonio López, Mayor Otaño y todo Itapúa a digitalizarse con páginas web profesionales, sistemas personalizados y soluciones tecnológicas modernas."
+
+Mantener botones actuales.
+Agregar botón secundario:
+
+Texto: "Solicitar Diagnóstico Gratuito"
+Enlazar al formulario de contacto.
+
+2️⃣ MODIFICAR TÍTULOS DE SECCIONES EN HOME
+
+Cambiar:
+
+"Servicios de Desarrollo de Software en Paraguay"
+
+Por:
+
+"Servicios de Desarrollo de Software en Itapúa"
+
+Cambiar:
+
+"Planes de Desarrollo Web by Software en Paraguay"
+
+Por:
+
+"Planes de Desarrollo Web en Carlos Antonio López e Itapúa"
+
+Agregar debajo una línea descriptiva:
+
+"Soluciones pensadas para negocios y consultorios de la región."
+
+3️⃣ AGREGAR NUEVA SECCIÓN EN HOME (ANTES DEL FOOTER)
+
+Insertar sección nueva:
+
+H2:
+"Atendemos Empresas y Consultorios en Itapúa"
+
+Texto:
+"Brindamos servicios de desarrollo web, sistemas de turnos online y digitalización empresarial en Carlos Antonio López, Mayor Otaño y todo el departamento de Itapúa. Ofrecemos soporte profesional y acompañamiento continuo."
+
+Lista:
+
+Desarrollo web en Carlos Antonio López
+
+Sistemas de turnos online en Mayor Otaño
+
+Software empresarial en Itapúa
+
+Soporte técnico y mantenimiento continuo
+
+Agregar botón:
+"Hablar por WhatsApp Ahora"
+Mantener enlace actual.
+
+4️⃣ ACTUALIZAR META TAGS DEL HOME
+
+Meta Title:
+"SoftwarePar | Desarrollo Web en Itapúa"
+
+Meta Description:
+"Empresa de desarrollo web y sistemas en Carlos Antonio López, Mayor Otaño e Itapúa. Creamos páginas web, sistemas de turnos y software empresarial."
+
+Agregar si no existen:
+
+Open Graph title
+
+Open Graph description
+
+Canonical URL
+
+5️⃣ AGREGAR SCHEMA LOCALBUSINESS (JSON-LD EN HEAD)
+
+Agregar bloque JSON-LD:
+
+Type: LocalBusiness
+Name: SoftwarePar
+AreaServed:
+
+Carlos Antonio López, Itapúa, Paraguay
+
+Mayor Otaño, Itapúa, Paraguay
+
+Itapúa, Paraguay
+
+Category: ProfessionalService
+URL: https://softwarepar.lat
+
+No duplicar schema si ya existe.
+
+6️⃣ CREAR 3 LANDINGS SEO DIFERENCIADAS
+
+Crear las siguientes páginas:
+
+/desarrollo-web-carlos-antonio-lopez
+/sistemas-en-mayor-otano
+/software-en-itapua
+
+Reglas obligatorias:
+
+Cada página debe tener mínimo 900 palabras
+
+No copiar contenido entre páginas
+
+Usar lenguaje natural
+
+No repetir keyword exacta más de 6 veces
+
+Incluir 3 H2 estratégicos diferentes en cada página
+
+Incluir CTA fuerte al final
+
+A) Página Carlos Antonio López
+
+Enfoque: presencia digital para negocios locales.
+
+H2 obligatorios:
+
+¿Por qué tu negocio necesita presencia online?
+
+Beneficios de tener una página web profesional
+
+Cómo trabajamos con empresas locales
+
+B) Página Mayor Otaño
+
+Enfoque: sistemas y turnos online para consultorios.
+
+H2 obligatorios:
+
+Sistema de turnos online para consultorios
+
+Ventajas de digitalizar tu atención al público
+
+Soporte técnico cercano y continuo
+
+C) Página Itapúa
+
+Enfoque: software empresarial y facturación electrónica.
+
+H2 obligatorios:
+
+Soluciones empresariales en Itapúa
+
+Facturación electrónica y cumplimiento con la SET
+
+Sistemas personalizados y escalables
+
+7️⃣ OPTIMIZACIÓN TÉCNICA
+
+Verificar:
+
+Lazy loading en imágenes
+
+Compresión de imágenes
+
+Meta tags únicos por página
+
+Estructura correcta H1 > H2 > H3
+
+Buen rendimiento móvil
+
+OBJETIVO FINAL:
+
+Posicionamiento real en búsquedas locales
+
+Contenido natural
+
+Diferenciación estratégica
+
+Autoridad en Itapúa
+
+FIN DE INSTRUCCIONES
